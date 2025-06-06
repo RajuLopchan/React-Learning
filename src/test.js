@@ -1,5 +1,5 @@
 const x = () => {
-  console.log("hi")
-}
+  console.log("hi");
+};
 
-export default x
+export default x;
